@@ -1,0 +1,89 @@
+
+.subscribe-button { 
+    background-color: rgb(235, 14, 14);
+    color :white; 
+    border : none;
+    height : 36px;
+    width: 90px;
+    border-radius: 2px;
+    cursor: pointer;
+      }
+    .subscribe-button:hover {
+        background-color:green;
+    }
+    .subscribe-button:hover{
+box-shadow:10px 10px 5px green
+    }
+    .subscribe-button:active {
+        background-color: rgb(0, 65, 100);
+    }       
+    .join-button {
+    background-color: blue;
+    color :white; 
+    border : none;
+    height : 36px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin:10px;
+
+    }
+    .join-button:hover {
+        background-color: rgb(111, 139, 0);
+    }
+    .join-button:active {
+        background-color: rgb(0, 65, 100);
+    }
+    .tweet-button {
+        background-color:rgb(102, 223, 108);
+        color:white;
+        border:none;
+        height:36px;
+        width:100px;
+        border-radius: 3px;
+    }
+    .tweet-button:hover {
+        background-color: rgb(89, 0, 255);
+    }
+    .tweet-button:active {
+        background-color: rgb(100, 0, 0);
+    }
+    .tweet-button:focus {
+        background-color: rgb(10, 148, 10);
+    }   
+    
+    .join-text {
+        colour:rgb(155, 237, 155);
+        height: 36px;
+        width:100px;
+        cursor: pointer;
+
+    }
+  .image1{
+    width: 50px;
+    height: auto;
+  }
+
+  .raja{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+  
+    text-align: center;
+  }
+
+  .welcome{
+    background-color: green;
+    padding: 20px;
+    border-radius: 5px;
+   color: white;
+    text-align: center;
+  }
+
+  .rajasekhar{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+    margin:10px;
+    text-align: center; 
+  }
